@@ -1,0 +1,1 @@
+[2020-09-11 16:43:30.465] [renderer1] [error] [text file model] handleSaveError(0) - exit - resulted in a save error: Error: Unable to write file '/home/cm/.config/polybar/config' (NoPermissions (FileSystemError): Error: EACCES: permission denied, open '/home/cm/.config/polybar/config') file:///home/cm/.config/polybar/config

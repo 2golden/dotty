@@ -1,0 +1,15 @@
+[2020-09-10 10:24:57.148] [sharedprocess] [info] main {"machineId":"70a00cf11ad6c3a98b641d71c11e5ce1b1bda7bbd3c3bb2bd4f559e35e71f859","windowId":2}
+[2020-09-10 10:24:57.173] [sharedprocess] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/cm/.config/Code/User/snippets'
+[2020-09-10 10:25:37.160] [sharedprocess] [info] Starting to clean up unused language packs.
+[2020-09-10 10:28:50.012] [sharedprocess] [info] Installing extension: knisterpeter.vscode-github
+[2020-09-10 10:28:50.646] [sharedprocess] [info] Downloaded extension: knisterpeter.vscode-github /home/cm/.config/Code/CachedExtensionVSIXs/knisterpeter.vscode-github-0.30.3
+[2020-09-10 10:28:51.238] [sharedprocess] [info] Extracted extension to /home/cm/.vscode/extensions/.knisterpeter.vscode-github-0.30.3: knisterpeter.vscode-github
+[2020-09-10 10:28:51.239] [sharedprocess] [info] Renamed to /home/cm/.vscode/extensions/knisterpeter.vscode-github-0.30.3
+[2020-09-10 10:28:51.239] [sharedprocess] [info] Installation completed. knisterpeter.vscode-github
+[2020-09-10 10:28:51.256] [sharedprocess] [info] Extensions installed successfully: knisterpeter.vscode-github
+[2020-09-10 10:30:37.704] [sharedprocess] [info] Installing extension: henriquebruno.github-repository-manager
+[2020-09-10 10:30:38.693] [sharedprocess] [info] Downloaded extension: henriquebruno.github-repository-manager /home/cm/.config/Code/CachedExtensionVSIXs/henriquebruno.github-repository-manager-0.6.0
+[2020-09-10 10:30:38.794] [sharedprocess] [info] Extracted extension to /home/cm/.vscode/extensions/.henriquebruno.github-repository-manager-0.6.0: henriquebruno.github-repository-manager
+[2020-09-10 10:30:38.794] [sharedprocess] [info] Renamed to /home/cm/.vscode/extensions/henriquebruno.github-repository-manager-0.6.0
+[2020-09-10 10:30:38.795] [sharedprocess] [info] Installation completed. henriquebruno.github-repository-manager
+[2020-09-10 10:30:38.797] [sharedprocess] [info] Extensions installed successfully: henriquebruno.github-repository-manager

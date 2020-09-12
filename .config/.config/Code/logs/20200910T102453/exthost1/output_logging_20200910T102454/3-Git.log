@@ -1,0 +1,15 @@
+Looking for git in: git
+Using git 2.28.0 from git
+> git clone git@github.com:2golden/silver-system.git /home/cm/silver-system --progress
+Cloning into '/home/cm/silver-system'...
+ssh_askpass: exec(/usr/lib/ssh/ssh-askpass): No such file or directory
+Host key verification failed.
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+> git clone https://github.com/2golden/dotty.git /home/cm/dotty --progress
+Cloning into '/home/cm/dotty'...
+remote: Enumerating objects: 3, done.        
+remote: Counting objects:  33% (1/3)        remote: Counting objects:  66% (2/3)        remote: Counting objects: 100% (3/3)        remote: Counting objects: 100% (3/3), done.        
+remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0        

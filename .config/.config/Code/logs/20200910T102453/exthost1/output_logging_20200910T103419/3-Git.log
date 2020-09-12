@@ -1,0 +1,31 @@
+Looking for git in: git
+Using git 2.28.0 from git
+> git rev-parse --git-dir
+Open repository: /home/cm/dotty
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/cm/dotty/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show --textconv :README.md
+> git ls-files --stage -- /home/cm/dotty/README.md
+> git cat-file -s f268e0f953972dbdcf7ec36cdf4ac8d0dda9e693
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/cm/dotty/README.md
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/cm/dotty/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git show --textconv :README.md
+> git ls-files --stage -- /home/cm/dotty/README.md
+> git cat-file -s f268e0f953972dbdcf7ec36cdf4ac8d0dda9e693

@@ -1,0 +1,5 @@
+{
+    "github.allowUnsafeSSL": true,
+    "workbench.colorTheme": "Monokai Dimmed",
+    "workbench.iconTheme": "vs-minimal"
+}
